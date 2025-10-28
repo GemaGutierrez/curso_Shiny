@@ -121,3 +121,5 @@ Este material se distribuye bajo licencia
 Creative Commons BY-NC-SA 4.0
 
 Puedes reutilizarlo y adaptarlo con atribución y sin fines comerciales.
+
+Hecho con ❤️ en Shiny
