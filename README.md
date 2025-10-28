@@ -21,7 +21,7 @@ Aprender a:
 <pre>
 curso_Shiny/
 │
-├── data/                      # Datos de ejemplo (p.ej. datos_psico.csv)
+├── datos_psico.csv
 │
 ├── apps/                      # Aplicaciones Shiny usadas en el curso
 │   ├── App0_mini_hist.R
